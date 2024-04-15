@@ -36,4 +36,4 @@ To prevent these errors from occuring in the future, I implemented these data va
   
 The formulas can be found in the excel file 'Analysis' tab.
 # Dashboard
-![Dashboard](Los_Angeles_Apparel_Image_Dashboard.png)
+![Dashboard](los_angeles_apparel_dashboard_image.png)
