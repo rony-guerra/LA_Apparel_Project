@@ -39,3 +39,5 @@ The formulas can be found in the excel file 'Analysis' tab.
 ![Dashboard](los_angeles_apparel_dashboard_image.png)
 I am sharing the dashboard as a image because I was unable to publish the dashboard to Power BI service since it requires a pro subscription or work account which I do not have.
 - **Power BI Desktop File:** I will share the .pbix file, which can be downloaded and viewed using **Power BI Desktop**. Here is the file: ![dashboard download](los_angeles_apparel_dashboard.pbix) click on 'View Raw'
+
+This dashboard provides a real-time overview for the inventory lot audit process. It’s designed to help the admin staff to track the current project status, identify any lots that remain to be audited, and shows the estimated remaining time to completion **(days)**.
